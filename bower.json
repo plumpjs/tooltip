@@ -1,0 +1,23 @@
+{
+	"name": "plumpjs-tooltip",
+	"version": "0.1.0",
+	"authors": [
+		"James Martin-Davies <jamesmd@plumpdigitial.co.uk>",
+		"James Howard <james@plumpdigital.co.uk>"
+	],
+	"description": "MooTools-based UI tooltip functionality.",
+	"main": "tooltip.js",
+	"keywords": [
+		"plumpjs",
+		"tooltip",
+		"ui"
+	],
+	"license": "MIT",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	]
+}
